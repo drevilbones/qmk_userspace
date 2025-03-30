@@ -1,4 +1,12 @@
 {
     "userspace_version": "1.0",
-    "build_targets": []
+    "build_targets": [
+      ["1upkeyboards/pi60", "drevilbones"],
+      ["drop/alt", "drevilbones"],
+      ["nullbitsco/nibble/rp2040", "drevilbones"],
+      ["nullbitsco/tidbit", "drevilbones"],
+      ["p3d/tw40", "drevilbones"],
+      ["planck/rev6_drop", "drevilbones"],
+      ["sofle", "drevilbones"]
+    ]
 }
